@@ -1,0 +1,33 @@
+h3 {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 32px;
+  border-bottom: 1px grey solid;
+  margin-bottom: 8px;
+}
+
+#header {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+#body {
+  margin-left: 20px;
+}
+
+.rightimg {
+   max-width: 40%;
+   float: right;
+   margin: 7px 0 7px 7px;
+}
+
+a {
+  color: blue;
+  border-bottom: 1px black solid;
+}
+
+body {
+  background-color: #EAF0FB;
+}
