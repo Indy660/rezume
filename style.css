@@ -6,6 +6,7 @@ h2 {
   font-size: 32px;
   border-bottom: 1px grey solid;
   margin-bottom: 8px;
+  clear: both;
 }
 
 #header {
